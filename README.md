@@ -16,3 +16,6 @@ file will contain code that creates a given name and size.
   package manager, from [here](https://www.lua.org/download.html) (source), or from 
   [here](https://luabinaries.sourceforge.net/) (prebuilt)
 - After installing Lua, simply navigate to the folder where you cloned this repo, and run `lua sdl.lua`
+
+## License
+The SDL Boilerplate Generator is licensed under the MIT license.
