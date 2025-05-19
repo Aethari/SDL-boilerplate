@@ -8,7 +8,7 @@ end
 :: beginning ::
 print()
 print("  SDL3 Boilerplate Generator v1.0.0")
-print("By DJaySky (https://github.com/DJaySky)")
+print("By Aethari (https://github.com/Aethari)")
 print("---------------------------------------")
 
 -- name
